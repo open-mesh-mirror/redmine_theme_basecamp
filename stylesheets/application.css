@@ -30,6 +30,24 @@
   }
 }
 
+@media screen and (min-width: 900px)
+{
+  #main-menu {
+    margin: 0 3em;
+  }
+
+  #main {
+    margin: 0 3em;
+  }
+
+  #wrapper {
+    background-color: #eee;
+  }
+
+  #content {
+    border-left: 1px solid #ddd;
+  }
+}
 
 
 /* Menu */

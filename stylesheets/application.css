@@ -53,10 +53,22 @@ h2, .wiki h1 { background-color: #edf3fe; margin: -6px -10px 10px; padding: 10px
   #content > .contextual {
      text-align: right;
      float: none;
-     margin-bottom: 10px;
+     background-color:#eee;
+     font-size:0.9em;
+     margin:-6px -10px 6px;
+     padding:6px;
+     text-indent:15px;
   }
 }
 
+p.breadcrumb {
+  background-color:#eee;
+  border-bottom:1px solid white;
+  font-size:0.9em;
+  margin:-6px -10px 6px;
+  padding:6px;
+  text-indent:15px;
+}
 
 /* Menu */
 #top-menu { background-color: #000; }
